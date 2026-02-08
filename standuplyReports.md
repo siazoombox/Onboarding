@@ -1,6 +1,6 @@
 ## Dixi Reports
 
-Here at Expertizo, we utilize a service called Geekbot.
+Here at Sia Zoombox, we utilize a service called Geekbot.
 Geekbot is a program that runs stand-up meetings in text format in Slack. It helps our distributed teams organize and run stand-ups no matter the distance.
 
 These reports provide critical information and updates from engineers that helps better improve engineering's context for overall work and progress throughout the GitHub organization.
@@ -37,7 +37,7 @@ Following template to follow is must:
    **Spent Hours**: 8  
    **Reason for exceeding hours**: I didn’t plan properly. After looking into the code, it took me time to debug the bug.
 
-2. [Reviewed someone’s code](https://expertizo.slack.com/archives/C7KC9DJBC/p1706768419213499) (This should be linked with Github’s PR or Slack’s conversation)  
+2. [Reviewed someone’s code](https://SiaZoombox.slack.com/archives/C7KC9DJBC/p1706768419213499) (This should be linked with Github’s PR or Slack’s conversation)  
    **Est. Hours**: 2  
    **Spent Hours**: 2  
    **Reason for exceeding hours**: Not applicable
@@ -48,6 +48,6 @@ Following template to follow is must:
    **Est. Hours**: 15  
    **Optional Info**: It should be completed around 10 hrs but 15 hrs are just for any unforeseen issue.
 
-2. [I will review someone’s code](https://expertizo.slack.com/archives/C7KC9DJBC/p1706768419213499) (This should be linked with Github’s PR or Slack’s conversation)  
+2. [I will review someone’s code](https://SiaZoombox.slack.com/archives/C7KC9DJBC/p1706768419213499) (This should be linked with Github’s PR or Slack’s conversation)  
    **Est. Hours**: 10  
    **Optional Info**: Not required
