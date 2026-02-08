@@ -21,7 +21,6 @@ Prior to submitting a PR for review and QA, a developer is required to test thei
 
 ## Backend Testing Checklist
 
-- [ ] [Expertizo's best practices](https://github.com/Expertizo/Onboarding/blob/master/codeStandards.md) are followed.
 - [ ] The branch is rebased over the latest master branch.
 - [ ] All the relevant meaningful tests (expected outcome & unexpected outcome) related to the latest changes are added with realistic results that are consistent with the real output.
 - [ ] Understands affected areas related to changes in PR.
