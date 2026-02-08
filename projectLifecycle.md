@@ -1,6 +1,6 @@
 ## Project Lifecycle
 
-At Expertizo, all tasks are created as tickets through [Trello](https://trello.com/).
+At Sia Zoombox, all tasks are created as tickets through [Trello](https://trello.com/).
 
 If a ticket is classified as a Project, the following steps take place:
 
