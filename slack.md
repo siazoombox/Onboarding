@@ -2,13 +2,9 @@
 
 To streamline communication, all team members are requested to follow these steps:  
 
-1. **📱 Expertizo Slack**  
-   - Install and log in to the Expertizo Slack app on your mobile device.  
+1. **📱 Sia Zoombox Slack**  
+   - Install and log in to the Sia Zoombox Slack app on your mobile device.  
    - This will serve as the primary platform for quick internal conversations.  
-
-2. **🌐 Client Slack Access**  
-   - If you have access to a client's Slack workspace, ensure you are logged in on your mobile device.  
-   - This is important for seamless communication, especially for off-hours requirements.  
 
 ---
 
