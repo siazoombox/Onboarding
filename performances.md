@@ -13,6 +13,7 @@
 | Partial Task from a Ticket              | ≤ 2 hrs             | 0.5       |
 | Normal/Small Ticket                     | 3 hrs to 8 hrs       | 1         |
 | Large Ticket                            | 9 hrs to 40 hrs      | 3         |
+| Providing document                            | 9 hrs to 40 hrs      | 3         |
 | PR Reviews/Helps in 3 Unique Tickets    | -                    | 1         |
 | Weekly Session                          | -                    | 3         |
 | Weekly Session Attendance               | -                    | 1         |
